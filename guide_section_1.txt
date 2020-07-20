@@ -1,0 +1,26 @@
+Commands git
+git init 
+git remote add origin (link repository)
+git status
+git add * 
+git commit -m "message"
+git push origin master -- force (en este caso porq no tengo en mi archivo el readme)
+
+
+Instructions
+en la guia se incluye lo teorico 
+en el codigo en comentarios se incluye lo tecnico o de funcionamiento
+
+1. intro HTML  
+se crea el index.html 
+se escribe html, donde nos va a aparecer la seleccion de html:5, se se autocompleta lo basico
+el head lo lee el explorador mas no se visualiza en la pagina 
+el body es lo q visualizamos en la pagina
+con el h1 (encabezado)se visualiza mas grande que con el p(parrafo), aunq esto se ira cambiando con css, css le da una mejor visualizacion en el diseño de la pagina
+a = enlace web
+div= division en body
+h2= otro encabezado
+tenemos encabezados desde h1 a h6, h1 el mas grande, h6 el mas pequeño
+Si por ejemplo en un parrafo esbribimos lorem+tab nos crea un parrafo aleatorio en latin
+para poner estilo en html (no muy recomendado) es etiqueta style dentro de head
+truco: alt+z para poner los parrafos ordenados
