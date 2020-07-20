@@ -24,3 +24,7 @@ tenemos encabezados desde h1 a h6, h1 el mas grande, h6 el mas pequeño
 Si por ejemplo en un parrafo esbribimos lorem+tab nos crea un parrafo aleatorio en latin
 para poner estilo en html (no muy recomendado) es etiqueta style dentro de head
 truco: alt+z para poner los parrafos ordenados
+
+2. intro css 
+no tiene tanto organizacion (al menos en inicio) pero es mejor q la pratcica de estilo en html 
+en head de html con comando link referenciamos el css 
