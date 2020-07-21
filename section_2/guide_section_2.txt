@@ -1,0 +1,17 @@
+Commands git
+git init 
+git remote add origin (link repository)
+git status
+git add * 
+git commit -m "message"
+git push origin master -- force (en este caso porq no tengo en mi archivo el readme)
+
+
+Instructions
+en la guia se incluye lo teorico 
+en el codigo en comentarios se incluye lo tecnico o de funcionamiento
+
+1. Headers
+Enlace de diversos tutoriales de html: https://www.w3schools.com/html/ 
+en buena practica el h1 solo debe haber 1 ya q es el tiyulo
+Podemos ver q no interesa los espacios antes o despues de el texto completo q escribimos
