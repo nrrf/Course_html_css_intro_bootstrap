@@ -11,7 +11,15 @@ Instructions
 en la guia se incluye lo teorico 
 en el codigo en comentarios se incluye lo tecnico o de funcionamiento
 
-1. Headers
+1. Headers  // material apoyo: https://www.w3schools.com/html/html_headings.asp
 Enlace de diversos tutoriales de html: https://www.w3schools.com/html/ 
 en buena practica el h1 solo debe haber 1 ya q es el tiyulo
 Podemos ver q no interesa los espacios antes o despues de el texto completo q escribimos
+
+2. Paragraphs  and formats // material de apoyo: https://www.w3schools.com/html/html_paragraphs.asp
+Entre cada parrafo vemos q existe un espaciado
+
+si solo se escribe en body se escribe como en parrafo pero no va haber espaciado si son varios parrafos
+
+Podemos darle cierto formato como Bold o italic a nuestro texto, estos estan explicados en https://www.w3schools.com/html/html_formatting.asp
+
