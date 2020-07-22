@@ -23,3 +23,17 @@ si solo se escribe en body se escribe como en parrafo pero no va haber espaciado
 
 Podemos darle cierto formato como Bold o italic a nuestro texto, estos estan explicados en https://www.w3schools.com/html/html_formatting.asp
 
+3. Attributes  // materia apoyo: https://www.w3schools.com/html/html_attributes.asp 
+
+con el comando a , podemos referenciar un enlace (en este caso especifico externo)como atributo 
+y el texto q visualizamos en la pantalla como un hipervinculo
+
+otro comando q vamos a usar es img, la cual tiene 2 atributos, el primero, en el que referenciamos src = path de la imagen y el segundo,
+alt en el cual damos una descripcion de la imagen, esta descripcion solo la vamos a visualizar en la pagina si el path de src
+de la imagen esta mal 
+
+
+
+
+
+
