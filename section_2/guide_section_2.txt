@@ -32,6 +32,17 @@ otro comando q vamos a usar es img, la cual tiene 2 atributos, el primero, en el
 alt en el cual damos una descripcion de la imagen, esta descripcion solo la vamos a visualizar en la pagina si el path de src
 de la imagen esta mal 
 
+4. Lists and comments // https://www.w3schools.com/html/html_lists.asp 
+
+Tenemos 2 tipos de listas, las ordenadas y las desordenadas, 
+basicamente la diferencia radica en q uno muetra la lista en puntoe y la otra en numeros 
+
+para aladir listas, comando ul para ordenadas, ol para desordenadas, y para cada elemento q agregamos li
+comentarios <!--xd-->
+
+
+
+
 
 
 
