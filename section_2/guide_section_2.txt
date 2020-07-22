@@ -23,7 +23,7 @@ si solo se escribe en body se escribe como en parrafo pero no va haber espaciado
 
 Podemos darle cierto formato como Bold o italic a nuestro texto, estos estan explicados en https://www.w3schools.com/html/html_formatting.asp
 
-3. Attributes  // materia apoyo: https://www.w3schools.com/html/html_attributes.asp 
+3. Attributes  // material apoyo: https://www.w3schools.com/html/html_attributes.asp 
 
 con el comando a , podemos referenciar un enlace (en este caso especifico externo)como atributo 
 y el texto q visualizamos en la pantalla como un hipervinculo
@@ -39,6 +39,13 @@ basicamente la diferencia radica en q uno muetra la lista en puntoe y la otra en
 
 para aladir listas, comando ul para ordenadas, ol para desordenadas, y para cada elemento q agregamos li
 comentarios <!--xd-->
+
+5. Semantic HTML
+
+Algunas de las semanticas nuevas que tiene el HTML 5, algunos estan en https://www.w3schools.com/html/html5_semantic_elements.asp
+
+
+
 
 
 
