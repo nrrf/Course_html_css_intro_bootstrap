@@ -38,3 +38,18 @@ hay algunos colores preestablecidos en HTML, mas info: https://www.w3schools.com
 mas info: https://www.w3schools.com/colors/colors_converter.asp
 
 podemos trabajar ademas entre oros con rgb, hezadecimal y rgba (el a es alpha, el cual da transparencia)
+
+4. Margins and padding
+
+Complementando un poco lo de vid anterior, esta pagina nos muetra gran cantidad de colores con su codigo hezadecimal: 
+https://colorhunt.co/
+
+Los margenes pueden ser en cualquira de los lados (arriba, abajo, izq, der) (ej: margin-top)
+
+o margin 10px (aplica para todos los lados)
+margin 10px 20px (10 para arriba y abajo , 20 para derecha e izq)
+margin 10px 20 px 30px 40px (10 arriba, 20 der, 30 abajo, 40 izq)
+
+El margin es una margen externa 
+
+el padding es una margen interna   

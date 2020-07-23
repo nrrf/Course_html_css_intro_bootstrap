@@ -1,0 +1,26 @@
+h1 {
+    background: #b83b5e;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-bottom: 150px;
+    margin-right: 200px;
+}
+
+.margin1{
+    background: #d291bc;
+    margin: 100px
+}
+
+.margin2{
+    background: #79d70f;
+    margin: 100px 50px; 
+}
+
+.margin3{
+    background: #45046a;
+    margin: 10px 20px 50px 75px;
+}
+p {
+    background: #f0a500;
+    padding: 100px;
+}
