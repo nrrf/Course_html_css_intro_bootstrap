@@ -1,0 +1,9 @@
+h1 {
+    background: hotpink;
+    display: inline-block;
+}
+
+a {
+    background: hotpink;
+    display: block;
+}

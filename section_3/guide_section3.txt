@@ -72,3 +72,10 @@ Hacen parte de pas pseudoclases
 hover: son modificaciones o eventos por ejemplo cambiar el color de fondo cuando el cursor pasa por algun sitio 
 active: hace "evento" cuando se esta haciendo click, por ejemplo tambien cambiar el background
  
+7. Block and line elements
+
+Para pasar elementos de bloque a de linea (como h1),en el CSS
+display: inline-block 
+
+y para uno de linea a uno de bloque:
+display: block
