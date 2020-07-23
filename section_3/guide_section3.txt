@@ -63,4 +63,12 @@ en html tenemos elementos de bloque (p, h1, nav, etc...)y elementos de linea (se
 
 por lo que se necesita usar flexbox, en este caso , el section actua como contenedor 
 
-por lo que a section le creamos una clase la cual va a tener la propiedad de disxplay:flex, para poder visualizar de manera horizontal los parrafos q estan con la clase column 
+por lo que a section le creamos una clase la cual va a tener la propiedad de disxplay:flex, para poder visualizar de manera horizontal los parrafos q estan con la clase column
+
+6. Hover and Active //para ms info https://www.w3schools.com/css/css_pseudo_classes.asp 
+
+Hacen parte de pas pseudoclases 
+
+hover: son modificaciones o eventos por ejemplo cambiar el color de fondo cuando el cursor pasa por algun sitio 
+active: hace "evento" cuando se esta haciendo click, por ejemplo tambien cambiar el background
+ 
