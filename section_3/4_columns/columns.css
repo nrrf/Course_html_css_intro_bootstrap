@@ -1,0 +1,16 @@
+nav {
+    background: #526171;
+    padding: 20px;
+}
+
+.column{
+    background: #d8345f;
+    color: #f4f4f4;
+    padding: 20px;
+    margin: 10px;
+    width: 25%;
+}
+
+.padre{
+    display: flex; /*este flex es el q hace q podamos tener la visualizacion de los parrafos q hicimos*/
+}

@@ -53,3 +53,14 @@ margin 10px 20 px 30px 40px (10 arriba, 20 der, 30 abajo, 40 izq)
 El margin es una margen externa 
 
 el padding es una margen interna   
+
+5. Columns (Introduction to Flexbox)
+
+podemos dar algunas medidas en diferentes formas, por ejemplo el width lo podemos escribir como porcentaje o en pixeles, 
+mas adelante se vera en detalle 
+
+en html tenemos elementos de bloque (p, h1, nav, etc...)y elementos de linea (se llenan verticalmente como a)
+
+por lo que se necesita usar flexbox, en este caso , el section actua como contenedor 
+
+por lo que a section le creamos una clase la cual va a tener la propiedad de disxplay:flex, para poder visualizar de manera horizontal los parrafos q estan con la clase column 
