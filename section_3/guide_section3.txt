@@ -30,3 +30,11 @@ similar a el ID, tmbn se va a referenciar en CSS
 
 Para una etiqueta, se pueden agregar varia clases, por ejemplo una que referencie el color y tamaño de la letra, y otra clase q referencie el fondo
 (background)
+
+3. Colors 
+
+hay algunos colores preestablecidos en HTML, mas info: https://www.w3schools.com/css/css_colors.asp 
+
+mas info: https://www.w3schools.com/colors/colors_converter.asp
+
+podemos trabajar ademas entre oros con rgb, hezadecimal y rgba (el a es alpha, el cual da transparencia)

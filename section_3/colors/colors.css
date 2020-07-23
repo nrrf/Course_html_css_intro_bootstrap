@@ -1,0 +1,15 @@
+.micolor{  /*mi clase de color*/
+    color: Tomato;
+}
+
+.verde{
+    color: rgb(60, 179, 113);
+}
+
+.celeste{
+    color: #c5d8ff; /*hexadecimal*/
+}
+
+.greentransparency{
+    color: rgba(60, 179, 113,0.5); /*el ultimo es a de alptah el cual da transparencia*/
+}
