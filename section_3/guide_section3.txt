@@ -19,5 +19,14 @@ mas info: https://www.w3schools.com/css/css_syntax.asp
 Podemos agregar los estilos de CSS de tres maneras distintas: 
 https://www.w3schools.com/css/css_howto.asp
 
-La forma mas recmendada es crear otro archivo de extension CSS, el cual vamos a referenciar desde HTML 
+La forma mas recomendada es crear otro archivo de extension CSS, el cual vamos a referenciar desde HTML 
 
+2. Ways to apply styles in CSS
+Se va a ver como agregar diferentes estilos a una misma etiqueta (por ejemplo varios h1 con diferente tamaño y color)
+para ello de crea id en etiqueta especifica y se referencia en CSS con las propiedades que queremos
+
+La otra forma un poco mas recomendada (al menos si se va a referenciar en varias ocaciones) es en vez de un id usar una clase
+similar a el ID, tmbn se va a referenciar en CSS
+
+Para una etiqueta, se pueden agregar varia clases, por ejemplo una que referencie el color y tamaño de la letra, y otra clase q referencie el fondo
+(background)
