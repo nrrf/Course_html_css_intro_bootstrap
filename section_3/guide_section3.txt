@@ -1,0 +1,23 @@
+Commands git
+git init 
+git remote add origin (link repository)
+git status
+git add * 
+git commit -m "message"
+git push origin master -- force (en este caso porq no tengo en mi archivo el readme)
+
+
+Instructions
+en la guia se incluye lo teorico 
+en el codigo en comentarios se incluye lo tecnico o de funcionamiento
+
+1. link HTML to CSS 
+
+La sintaxis de HTML va ptimero seleector o etiqueta (ej: H1),  luego entre {}la declaracion con propiedades y valores (como color o tamaño fuente),
+mas info: https://www.w3schools.com/css/css_syntax.asp
+
+Podemos agregar los estilos de CSS de tres maneras distintas: 
+https://www.w3schools.com/css/css_howto.asp
+
+La forma mas recmendada es crear otro archivo de extension CSS, el cual vamos a referenciar desde HTML 
+
