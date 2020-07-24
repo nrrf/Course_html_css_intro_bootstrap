@@ -13,7 +13,7 @@ en el codigo en comentarios se incluye lo tecnico o de funcionamiento
 
 1. link HTML to CSS 
 
-La sintaxis de HTML va ptimero seleector o etiqueta (ej: H1),  luego entre {}la declaracion con propiedades y valores (como color o tamaño fuente),
+La sintaxis de HTML va primero selector o etiqueta (ej: H1),  luego entre {}la declaracion con propiedades y valores (como color o tamaño fuente),
 mas info: https://www.w3schools.com/css/css_syntax.asp
 
 Podemos agregar los estilos de CSS de tres maneras distintas: 

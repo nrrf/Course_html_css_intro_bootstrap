@@ -1,0 +1,16 @@
+.enlace-nav {
+    display: inline-block;
+    background: salmon;
+    color: white;
+    padding: 10px 30px;
+    text-decoration: none;
+}
+
+.enlace-nav:hover {
+    background: #ff5f40;
+}
+
+nav {
+    padding: 10px;
+    background: #fa26a0;
+}

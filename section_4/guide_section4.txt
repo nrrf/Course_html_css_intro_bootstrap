@@ -1,0 +1,17 @@
+Commands git
+git init 
+git remote add origin (link repository)
+git status
+git add * 
+git commit -m "message"
+git push origin master -- force (en este caso porq no tengo en mi archivo el readme)
+
+
+Instructions
+en la guia se incluye lo teorico 
+en el codigo en comentarios se incluye lo tecnico o de funcionamiento
+
+1.  Structure with html and first css styles
+
+Al css se le van a dar ciertas carcteristcas vistas en secciones de linea (a pesar de q es de linea la q se esta modificando)
+, hover y demas caracteristicas 
