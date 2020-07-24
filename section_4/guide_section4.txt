@@ -24,3 +24,10 @@ en este caso para trabajar con flexbox, tenemos q tenemos q tener el contenedor,
 les dimos propieda de bloque de linea
 
 teniendo el flex activo, podemos trabajar dando space between, center, end, entre otras propiedades
+
+3. CSS media queries (Introduction responsive design)
+para mas info: https://developer.mozilla.org/es/docs/CSS/Media_queries 
+
+En nuestro diseño, podemos notar que cuando el ancho esta debajo de los 600px, el sitio se empieza a ver mal 
+por lo que con media query vamos a modificar ese comportamiento debajo de los 600px
+

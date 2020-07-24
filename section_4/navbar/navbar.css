@@ -20,3 +20,13 @@ nav {
     justify-content: center;*/
     /*estos son algunos otros ejemplos*/
 }
+
+@media (max-width: 600px) {
+    nav {
+        background: black;
+        flex-direction: column;
+    }
+    .enlace-nav {
+        margin: 10px 0;
+    }
+}
