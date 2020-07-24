@@ -37,3 +37,11 @@ y jugamos con las dimensiones de visualizacion
 4. add button in responsive design 
 vamos a añadir un boton de menu para cuando se este igual o debajo de los 600px de ancho 
 y esto nos abrira las opciones q tenemos de a 
+
+5. JavaScript interactivity 
+
+En este caso como son pocas lineas de codigo, se va a trabajar Javascrip dentro del 
+HTML por la etiqueta script dentro del body
+
+Basicamente con Javascript se busca dar la funcionalidad de que la visualizacion de los
+enlaces cuando se de click en menu debajo o igual a los 600 pixeles

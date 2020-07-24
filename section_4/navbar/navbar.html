@@ -10,12 +10,25 @@
 
 <body>
     <nav>
-        <button class="menu-nav">Menu</button>
-        <a href="#" class="enlace-nav">Inicio</a>
-        <a href="#" class="enlace-nav">Nosotros</a>
-        <a href="#" class="enlace-nav">Servicios</a>
-        <a href="#" class="enlace-nav">Contacto</a>
+        <button class="menu-nav" onclick="accion()">Menu</button>
+        <!--esa clase ya esta por defecto y es la q se va a vincular con el Javascript-->
+        <a href="#" class="enlace-nav desaparece">Inicio</a>
+        <a href="#" class="enlace-nav desaparece">Nosotros</a>
+        <a href="#" class="enlace-nav desaparece">Servicios</a>
+        <a href="#" class="enlace-nav desaparece">Contacto</a>
     </nav>
+
+    <script>
+        // esta parte basicamente es Javascript
+        function accion() {
+            console.log("mi boton esta funcionando")
+            var ancla = document.getElementsByClassName("enlace-nav") // nos da los elementos q tienen esta clase 
+
+            for (var i = 0; i < ancla.length; i++) {
+                ancla[i].classList.toggle("desaparece"); // elimina desaparece si esta o lo añade si no esta
+            }
+        }
+    </script>
 </body>
 
 </html>
