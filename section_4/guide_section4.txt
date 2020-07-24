@@ -31,3 +31,9 @@ para mas info: https://developer.mozilla.org/es/docs/CSS/Media_queries
 En nuestro diseño, podemos notar que cuando el ancho esta debajo de los 600px, el sitio se empieza a ver mal 
 por lo que con media query vamos a modificar ese comportamiento debajo de los 600px
 
+Para poder visualizar esto en la pagina vamos a Inspeccionar -> se activa Toggle device toolbar ->
+y jugamos con las dimensiones de visualizacion
+
+4. add button in responsive design 
+vamos a añadir un boton de menu para cuando se este igual o debajo de los 600px de ancho 
+y esto nos abrira las opciones q tenemos de a 

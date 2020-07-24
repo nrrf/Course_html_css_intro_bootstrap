@@ -21,6 +21,14 @@ nav {
     /*estos son algunos otros ejemplos*/
 }
 
+.menu-nav {
+    background: salmon;
+    color: white;
+    padding: 10px 0px;
+    border: 2px solid;
+    display: none/*basicamente con esto hacemos q no se vea el boton*/
+}
+
 @media (max-width: 600px) {
     nav {
         background: black;
@@ -28,5 +36,8 @@ nav {
     }
     .enlace-nav {
         margin: 10px 0;
+    }
+    .menu-nav {
+        display: inline-block;
     }
 }
