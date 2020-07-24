@@ -15,3 +15,12 @@ en el codigo en comentarios se incluye lo tecnico o de funcionamiento
 
 Al css se le van a dar ciertas carcteristcas vistas en secciones de linea (a pesar de q es de linea la q se esta modificando)
 , hover y demas caracteristicas 
+
+2. Working with Flexbox 
+
+para mas info: https://www.juanmacivico87.com/guia-flexbox/
+
+en este caso para trabajar con flexbox, tenemos q tenemos q tener el contenedor, q en este caso es nav y manejar los elementos adentro como bloques a los que ya
+les dimos propieda de bloque de linea
+
+teniendo el flex activo, podemos trabajar dando space between, center, end, entre otras propiedades

@@ -11,6 +11,12 @@
 }
 
 nav {
+    display: flex;
     padding: 10px;
     background: #fa26a0;
+    justify-content: space-around;
+    /*
+    justify-content: space-between;
+    justify-content: center;*/
+    /*estos son algunos otros ejemplos*/
 }
