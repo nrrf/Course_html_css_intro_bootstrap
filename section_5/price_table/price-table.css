@@ -20,6 +20,8 @@ p {
 .flex {
     display: flex;
     /*para visualizarlo en columnas*/
+    flex-wrap: wrap;
+    /*permite la visualizacion o raprticion de las columnas dependiendo del with */
 }
 
 .texto-centrado {
@@ -30,10 +32,12 @@ p {
     background: #f4f6ff;
     color: #838383;
     border: 1px solid #838383;
-    margin: 10px;
+    margin: 0px auto;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 10px 10px 5px #838383;
+    width: 23%;
+    box-sizing: border-box;
 }
 
 .Precio {
@@ -53,4 +57,18 @@ p {
 
 .BTN_precio:hover {
     background: #F5530B;
+}
+
+@media (max-width: 1070px) {
+    .Columna {
+        width: 40%;
+        margin-bottom: 20px;
+    }
+}
+
+@media (max-width: 600px) {
+    .Columna {
+        width: 100%;
+        margin-bottom: 20px;
+    }
 }

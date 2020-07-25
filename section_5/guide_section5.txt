@@ -59,3 +59,24 @@ basicamente lo q hicimos fue trbajar los ejes y el degradado con el color especi
 7 Button
 
 Sabemos que a es un elemento de linea, asi q lo primero es volverlo un elemento de linea, y el resto es ajustarlo
+
+8 Responsive Table
+
+Se va a ver la propiedad de flex-wrap
+Antes en ningun momento para las columnas se especifico algo relacionado al ancho y aloto de las mismas  
+
+de inicio si ponemos un width especifico en la clase columna (CSS) no vamos a visualizar ningun cambio 
+
+Pero si activamos el flex-wrap, la cosa cambia, y se ajusta a dicho tamaño ademas acomodar las otras dependiendo del width especificado
+
+Si tenemos el width de 25% no se va a visualizar completamente en la pantalla completa, por q ademas de ello tenemos el margen y el padding 
+
+Por lo que para poder ponerla en 25 % y que aparezcan las 4, se usa box-sizing, esto hace q en ese 25 % se cuente tanto el padding y el borde 
+mas info: https://developer.mozilla.org/es/docs/Web/CSS/box-sizing
+
+aun asi sigue sin caber porque no cuenta el margin en un inicio para sesolver esto los lados los vamos a poner auto (ajuste automatico) pero queda 
+sin espacio por lo que se va a bajar el width a 23%
+
+para q cuando se baje ancho se vean las columnas de 2 en 2 y aun mas abajo de 1 en 1: se va a usar el mediaquery
+ 
+
