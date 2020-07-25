@@ -44,3 +44,8 @@ si ponemos 300 de ancho en las qtiquetas va a quedar en light, asi 400 va a qued
 Lo q hacemos es al padre (section) es darle la propiedad de flex para asi visulizar los hijos (div) en columnas 
 
 Ademas se les da la propiedad de centrado a los textos esto tambien desde el padre 
+
+5. Column styles
+
+Se le añaden estilos a las columnas, por ejemplo a precio se le agrega un tamaño y color, ademas de las propiedades q
+se le agregan a la clase Columna (CSS)
