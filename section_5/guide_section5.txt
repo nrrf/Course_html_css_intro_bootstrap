@@ -18,8 +18,23 @@ hr es para hacer las lineas divisoras
 Basicamente se hicieron los parrafos y el contenido interno, sin formato, se crearon las clases 
 a pesar de q no se ha empezado a trabajar en el CSS
 
-2. 
+2. Centering Content
 
 Se creo la clase container en css, a la que se le dio la ptopiedad auto en margin para los lados, para q este centrado
 
 Se copio y pego lo q seria para 4 columnas (lo q esta en el div)
+
+3.  Adding custom fonts (google fonts)
+
+Google fonts: https://fonts.google.com/
+Se selecciona la familia y se seleccionan los estilos (+) que se desean 
+Luego en la familia seleccionada nos vamos a embed y se copia el link y se pega en el head del html
+
+tambien se copia debajo de link de html el del css, el cual vamos a poner para todo el body por lo que añadimos 
+la etiqueta de body en el css y hay pegamos el link
+
+ya luego creamos las etiquetas del body en el cual especificamos el ancho 
+
+el cual lo tenemos en 300 light , 400 regular, 700 bold 
+
+si ponemos 300 de ancho en las qtiquetas va a quedar en light, asi 400 va a quedar en regular y 700 bold
