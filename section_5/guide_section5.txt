@@ -49,3 +49,9 @@ Ademas se les da la propiedad de centrado a los textos esto tambien desde el pad
 
 Se le añaden estilos a las columnas, por ejemplo a precio se le agrega un tamaño y color, ademas de las propiedades q
 se le agregan a la clase Columna (CSS)
+
+6. Shadow 
+
+Se utiliza la propiedad de box-shadow, para mas info: https://developer.mozilla.org/es/docs/Web/CSS/box-shadow
+
+basicamente lo q hicimos fue trbajar los ejes y el degradado con el color especificado
