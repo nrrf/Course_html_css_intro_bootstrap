@@ -17,3 +17,9 @@ hr es para hacer las lineas divisoras
 
 Basicamente se hicieron los parrafos y el contenido interno, sin formato, se crearon las clases 
 a pesar de q no se ha empezado a trabajar en el CSS
+
+2. 
+
+Se creo la clase container en css, a la que se le dio la ptopiedad auto en margin para los lados, para q este centrado
+
+Se copio y pego lo q seria para 4 columnas (lo q esta en el div)
