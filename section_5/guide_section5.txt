@@ -38,3 +38,9 @@ ya luego creamos las etiquetas del body en el cual especificamos el ancho
 el cual lo tenemos en 300 light , 400 regular, 700 bold 
 
 si ponemos 300 de ancho en las qtiquetas va a quedar en light, asi 400 va a quedar en regular y 700 bold
+
+4. Columns
+
+Lo q hacemos es al padre (section) es darle la propiedad de flex para asi visulizar los hijos (div) en columnas 
+
+Ademas se les da la propiedad de centrado a los textos esto tambien desde el padre 
