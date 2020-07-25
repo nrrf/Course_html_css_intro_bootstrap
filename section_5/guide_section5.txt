@@ -55,3 +55,7 @@ se le agregan a la clase Columna (CSS)
 Se utiliza la propiedad de box-shadow, para mas info: https://developer.mozilla.org/es/docs/Web/CSS/box-shadow
 
 basicamente lo q hicimos fue trbajar los ejes y el degradado con el color especificado
+
+7 Button
+
+Sabemos que a es un elemento de linea, asi q lo primero es volverlo un elemento de linea, y el resto es ajustarlo

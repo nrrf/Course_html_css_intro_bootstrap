@@ -40,3 +40,17 @@ p {
     font-size: 50px;
     color: #1dd3bd;
 }
+
+.BTN_precio {
+    background: #F37036;
+    color: white;
+    display: block;
+    text-decoration: none;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.BTN_precio:hover {
+    background: #F5530B;
+}
