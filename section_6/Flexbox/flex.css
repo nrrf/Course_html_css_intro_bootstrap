@@ -1,0 +1,49 @@
+    * {
+        margin: 0;
+        padding: 0;
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+    }
+    
+    .Contenedor {
+        width: 80%;
+        height: 500px;
+        background: #900d0d;
+        margin: 50px auto;
+        display: flex;
+        flex-direction: row;
+        /*comienza del lado izq al lado derecho y las letras de IZQ a DER son A B C*/
+        /*flex-direction: row-reverse;*/
+        /*comienza de der a izq y las letras de IZQ  a DER son C B A*/
+        /*flex-direction: column;*/
+        /*no lo muestra en columna*/
+        flex-wrap: wrap;
+        /*justify-content: flex-start;*/
+        /*nos hace visualizar los hijos desde el inicio IZQ a DER y letras ABC*/
+        /*justify-content: flex-end;*/
+        /*nos hace visualizar los hijos de DER a IZQ y letras ABC (estas de IZQ a DER)*/
+        /*justify-content: center;*/
+        /*los ubica el centro*/
+        /*justify-content: space-between;*/
+        /*otra forma*/
+        justify-content: space-around;
+        /*otra forma*/
+        /*align-items: flex-end;*/
+        /*ubica los bloque hijo al final*/
+        /*align-items: center;*/
+        /*los ubica verticalmente en el centro*/
+        align-items: stretch;
+        /* en este caso solo sirve si no tenemos especificada la altura en los bloques hijo*/
+    }
+    
+    .Hijo {
+        background: #00B285;
+        width: 200px;
+        /*height: 100px;*/
+        color: #fff;
+        margin: 30px;
+        padding: 20px;
+        font-size: 40px;
+        text-align: center;
+    }

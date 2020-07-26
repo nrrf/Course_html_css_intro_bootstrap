@@ -1,0 +1,24 @@
+Commands git
+git init 
+git remote add origin (link repository)
+git status
+git add * 
+git commit -m "message"
+git push origin master -- force (en este caso porq no tengo en mi archivo el readme)
+
+
+Instructions
+en la guia se incluye lo teorico 
+en el codigo en comentarios se incluye lo tecnico o de funcionamiento
+
+1.  Flexbox basics 
+
+se ve lo q teniamos de vid anteriores, tambien, flex-direction: como 
+row (de izq a der, letras: ABC)
+row-reverse (de der a izq, letras: CBA)
+
+SE vio tmbn lo q es flex-wrap
+
+Se vio lo que es justify-content
+
+Hay mas propiedades , pero por ahora voy a saltar eso xd
