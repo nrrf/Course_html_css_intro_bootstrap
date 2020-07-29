@@ -53,3 +53,18 @@ y ahora para hacerr un redondeo en el container en la parte superior
 
 para ello usamos la clase: card-img-top
 para mas info de estas clases, en la documentacion oficial  
+
+5. Botones con Bootstrap
+
+Usando: class="btn btn-primary" carreamos el boton
+
+el primary es el color, en este caso un azul y cuenta con un efecto Hover 
+
+Por lo que podemos escribir: class="btn btn-danger", en el cual es rojo,igualmente con un efecto Hover
+
+otro ejemplo class="btn btn-info"
+
+Para mas info de los botones y sus colores: https://getbootstrap.com/docs/4.5/components/buttons/
+
+por ejemplo en la pagina web nos muestra para hacerlo con transparencia con: 
+class="btn btn-outline-primary"
