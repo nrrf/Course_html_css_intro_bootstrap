@@ -1,0 +1,23 @@
+Commands git
+git init 
+git remote add origin (link repository)
+git status
+git add * 
+git commit -m "message"
+git push origin master -- force (en este caso porq no tengo en mi archivo el readme)
+
+
+Instructions
+en la guia se incluye lo teorico 
+en el codigo en comentarios se incluye lo tecnico o de funcionamiento
+
+1. Introduccion a Bootstrap 4
+
+Guia del tuorial: 
+https://bluuweb.github.io/bootstrap/
+
+2. Instalacion de Bootstrap 4  
+
+https://getbootstrap.com/docs/4.5/getting-started/introduction/ 
+
+Si miramos en la seccion del enlace web, tenemos un template de inicio, el cual copiamos y pegamos en un archivo html,
