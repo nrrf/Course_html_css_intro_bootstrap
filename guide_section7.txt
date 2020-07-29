@@ -20,4 +20,15 @@ https://bluuweb.github.io/bootstrap/
 
 https://getbootstrap.com/docs/4.5/getting-started/introduction/ 
 
-Si miramos en la seccion del enlace web, tenemos un template de inicio, el cual copiamos y pegamos en un archivo html,
+Si miramos en la seccion del enlace web, tenemos un template de inicio, el cual copiamos y pegamos en un archivo html
+
+2. Comenzando sitio web, clase Container
+copiamos y pegamos una base de: 
+https://bluuweb.github.io/bootstrap/practica.html#container 
+
+se añade una clase a la primera etiqueta div, esta llamada container y automaticamnte se crea un espaciado dentro de la etiqueta q tiene dicha clase (de manera automatica) 
+
+vamos a ver q no va a ser necesario tantos estilos en css
+
+Aqui en Layou podremos obtener mas info de las clases de bootstrap:
+https://getbootstrap.com/docs/4.5/layout/overview/
