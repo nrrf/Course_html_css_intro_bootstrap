@@ -38,3 +38,18 @@ https://getbootstrap.com/docs/4.5/layout/overview/
 hacemos una etiqueta img dentro del div que tiene un container, agregamos la source de la imagen, vemos que no se respetan los margenes del container (esto es mas notorio con una imagen grande)
 
 Luego ponemos la clase img-fluid en la etiqueta img, vemos como ahora si se respetan las imagenwes en el diseño 
+
+4. Clase Card 
+
+rem = unidad que es relativa a todo el HTML 
+
+con el mt-5 se va a separar el container un poco por arriba (top)
+
+mt-5  =  margin top de 5
+
+coon class="card-body" basicamente hicimos un padding 
+
+y ahora para hacerr un redondeo en el container en la parte superior  
+
+para ello usamos la clase: card-img-top
+para mas info de estas clases, en la documentacion oficial  
