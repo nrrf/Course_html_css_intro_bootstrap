@@ -32,3 +32,9 @@ vamos a ver q no va a ser necesario tantos estilos en css
 
 Aqui en Layou podremos obtener mas info de las clases de bootstrap:
 https://getbootstrap.com/docs/4.5/layout/overview/
+
+3. Clase img-fluid: 
+
+hacemos una etiqueta img dentro del div que tiene un container, agregamos la source de la imagen, vemos que no se respetan los margenes del container (esto es mas notorio con una imagen grande)
+
+Luego ponemos la clase img-fluid en la etiqueta img, vemos como ahora si se respetan las imagenwes en el diseño 
